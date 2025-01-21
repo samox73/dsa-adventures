@@ -3,12 +3,12 @@ Das mechanische Labyrinth in der Stadt Nayoro stellt eine gewaltige Herausforder
 ### **Szene: Das Mechanische Labyrinth**
 
 **Beschreibung:**
-Nachdem die Helden einen sicheren Einstieg in die Stadt gefunden haben, führt sie ihr Weg tiefer in das Herz von Nayoro. Vor ihnen öffnet sich ein riesiger, unterirdischer Raum, dessen Decke sich in schwindelerregender Höhe verliert. Das Labyrinth selbst besteht aus einer Vielzahl von sich ständig bewegenden Plattformen, schwebenden Brücken und riesigen Zahnrädern, die unaufhörlich ineinandergreifen. Wände verschieben sich, Böden heben und senken sich, und in der Ferne sind dumpfe Geräusche von Mechanismen zu hören, die sich stetig bewegen. Ein Gefühl der Beklemmung liegt in der Luft, verstärkt durch das leise Surren und Knarren der uralten Maschinen.
 
-Das Licht ist diffus und scheint aus kristallenen Lichtspeichern zu kommen, die in regelmäßigen Abständen an den Wänden befestigt sind. Zwischen den Maschinen und Plattformen hängen riesige, leuchtende Glyphen, die in einer unbekannten, aber faszinierenden Sprache geschrieben sind. Einige der Plattformen wirken stabil und ruhig, während andere ständig in Bewegung sind, als ob sie einer eigenen Logik folgen.
+> Nachdem die Helden einen sicheren Einstieg in die Stadt gefunden haben, führt sie ihr Weg tiefer in das Herz von Nayoro. Vor ihnen öffnet sich ein riesiger, unterirdischer Raum, dessen Decke sich in schwindelerregender Höhe verliert. Das Labyrinth selbst besteht aus einer Vielzahl von sich ständig bewegenden Plattformen, schwebenden Brücken und riesigen Zahnrädern, die unaufhörlich ineinandergreifen. Wände verschieben sich, Böden heben und senken sich, und in der Ferne sind dumpfe Geräusche von Mechanismen zu hören, die sich stetig bewegen. Ein Gefühl der Beklemmung liegt in der Luft, verstärkt durch das leise Surren und Knarren der uralten Maschinen.
 
-**Atmosphäre:**
-Ein beständiges, tiefes Rumpeln durchzieht den Raum, begleitet vom gelegentlichen Klacken und Zischen der Maschinen. Die Luft ist kühl und riecht nach altem Metall, Öl und Ozongeruch, wie nach einem Blitzschlag. Die gesamte Szenerie hat etwas Unheimliches und gleichzeitig Ehrfurchtgebietendes – als ob die Stadt selbst lebendig wäre und die Helden genau beobachtet.
+> Das Licht ist diffus und scheint aus kristallenen Lichtspeichern zu kommen, die 2023in regelmäßigen Abständen an den Wänden befestigt sind. Zwischen den Maschinen und Plattformen hängen riesige, leuchtende Glyphen, die in einer unbekannten, aber faszinierenden Sprache geschrieben sind. Einige der Plattformen wirken stabil und ruhig, während andere ständig in Bewegung sind, als ob sie einer eigenen Logik folgen.
+
+> Ein beständiges, tiefes Rumpeln durchzieht den Raum, begleitet vom gelegentlichen Klacken und Zischen der Maschinen. Die Luft ist kühl und riecht nach altem Metall, Öl und Ozongeruch, wie nach einem Blitzschlag. Die gesamte Szenerie hat etwas Unheimliches und gleichzeitig Ehrfurchtgebietendes – als ob die Stadt selbst lebendig wäre und die Helden genau beobachtet.
 
 ### **Ziel: Durchqueren des Labyrinths**
 

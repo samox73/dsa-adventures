@@ -2,7 +2,7 @@
 
 ## **Überblick**
 
-In den Ausläufern der Schattenberge im Mittelreich wurde eine neu entdeckte Schlucht enthüllt. Gerüchte besagen, dass in den Tiefen dieser Schlucht eine uralte Stadt verborgen liegt, deren Architektur und Technologie weit über das hinausgeht, was das Mittelreich kennt – eine Mischung aus antiker Magie und futuristischer Mechanik. Die Helden werden beauftragt, dieses Mysterium zu ergründen und stoßen auf eine rätselhafte Cyberpunk-Stadt, die seit Jahrtausenden im Verborgenen lag.
+In den Ausläufern der Trollzacken im Mittelreich wurde eine neu entdeckte Schlucht enthüllt. Gerüchte besagen, dass in den Tiefen dieser Schlucht eine uralte Stadt verborgen liegt, deren Architektur und Technologie weit über das hinausgeht, was das Mittelreich kennt – eine Mischung aus antiker Magie und futuristischer Mechanik. Die Helden werden beauftragt, dieses Mysterium zu ergründen und stoßen auf eine rätselhafte Cyberpunk-Stadt, die seit Jahrtausenden im Verborgenen lag.
 
 ## **Einstieg**
 
@@ -64,8 +64,6 @@ Die Helden werden von einem Gelehrten aus Gareth, [Dr. Aventus Korin](../npcs/Av
 
 ---
 
-Dieser rote Faden bietet eine klare Struktur, der die Helden folgen können, um sich durch die Stadt zu bewegen und die Geheimnisse von Nayoro zu lüften, während sie auf unerwartete Wendungen und Herausforderungen stoßen.
-
 ## **Unerwartete Wendung**
 
 Wenn die Helden den Energiekern aktivieren, zeigt sich, dass die Stadt in Wirklichkeit ein gigantisches Gefängnis war, das eine mächtige Entität, **Nayoro**, beinhaltete. Diese Entität, eine Mischung aus Magie und maschineller Intelligenz, wurde von den Erbauern der Stadt eingesperrt, um zu verhindern, dass sie die Welt ins Chaos stürzt. Jetzt, da sie befreit ist, versuchen die Helden entweder, die Entität erneut zu bändigen oder zu entkommen, bevor sie das gesamte Mittelreich in Gefahr bringt.
@@ -75,9 +73,9 @@ Wenn die Helden den Energiekern aktivieren, zeigt sich, dass die Stadt in Wirkli
 Je nachdem, wie die Helden mit der Entität umgehen, gibt es mehrere mögliche Enden:
 
 1. **Erfolg**: Die Helden schaffen es, Nayoro zu bannen und die Stadt wieder zu verschließen. Dr. Korin nimmt eine Reihe von Artefakten und Aufzeichnungen mit zurück, und die Helden werden in Gareth für ihren Mut gefeiert.
-   
+
 2. **Flucht**: Die Helden schaffen es gerade noch, der Stadt zu entkommen, während Nayoro erwacht und die Stadt zerstört. Sie kehren ohne Dr. Korin zurück, der in der Stadt verschollen bleibt, und berichten den Behörden von der drohenden Gefahr.
-   
+
 3. **Scheitern**: Die Helden werden von Nayoro überwältigt und müssen sich einer neuen Realität stellen, in der die uralte Entität beginnt, das Mittelreich zu erobern.
 
 ## **Belohnungen**

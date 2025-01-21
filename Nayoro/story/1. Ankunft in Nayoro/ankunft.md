@@ -20,10 +20,15 @@ Im nächsten Moment finden sich die Helden vor einer massiven, alten Tür aus po
 
 #### **Szene: Das Rätsel der Eingangstür**
 
-An der Tür entdecken die Helden keine offensichtlichen Griffe oder Schlösser, nur eine metallene Tafel mit fremdartigen Symbolen, die in die Oberfläche eingraviert sind. Diese Symbole leuchten schwach und scheinen in einem komplexen Muster zu pulsen, das die Helden an einen alten magischen Code erinnert.
+An der Tür entdecken die Helden keine offensichtlichen Griffe oder Schlösser, nur eine metallene Tafel mit fremdartigen Symbolen, die in die Oberfläche eingraviert sind. Diese Symbole leuchten schwach und scheinen in einem komplexen Muster zu pulsen, das die Helden an einen alten magischen Code erinnert. In die Tür hineingearbeitet befindet sich eine Ziffernrolle mit 3 Ziffern.
 
-Das Rätsel ist simpel und doch komplex: Die Symbole müssen in der richtigen Reihenfolge berührt werden, um den Mechanismus der Tür zu aktivieren. Die Lösung des Rätsels hängt davon ab, dass die Helden die Reihenfolge der Symbole anhand der Pulsfrequenzen richtig deuten, da einige Symbole schneller und andere langsamer pulsieren.
+> Verschieden und doch zugleich; Getrennt schwach, gemeinsam stark
 
-- **Hinweis**: Die Lösung lässt sich durch genaues Beobachten des Pulsierens der Symbole herausfinden. Die Reihenfolge entspricht der Frequenz des Leuchtens – vom schnellsten bis zum langsamsten.
+Frequenzen:
+1 2 3 5 7
+
+Das Rätsel ist simpel und doch komplex: Wann leuchten alle Farben gleichzeitig?
+
+- **Hinweis**: Um das Rätsel zu lösen müssen
 
 Sobald die Helden das Rätsel lösen, beginnt die massive Tür zu surren und langsam in die Wand zurückzufahren. Vor ihnen öffnet sich ein dunkler, unheilvoller Gang, der in die Tiefe der uralten Stadt Nayoro führt, bereit, ihnen ihre lange verborgenen Geheimnisse zu enthüllen.
