@@ -1,0 +1,2 @@
+- gegner (ratten, sappeur, soldat,...) raussuchen
+- belagerungs-mini-games
