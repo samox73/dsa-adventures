@@ -1,0 +1,7 @@
+# Hinweise Sappeure
+
+- "Also, ich sag’s euch: Der Statthalter kann noch so viel patrouillieren lassen, aber die Spione sitzen doch längst mitten unter uns! Ich hab’ gestern im Hafenviertel so einen Handwerker gesehen, der hat mehr Werkzeug am Gürtel, als ein Maurer jemals braucht. Und warum, meint ihr, arbeitet der mitten in der Nacht? Das ist doch nicht normal! Manche sagen, die haben ’nen Tunnel gegraben, direkt bis zu den Mauern – und wenn die fertig sind, kracht das ganze Ding zusammen. Ich sag’s euch, Freunde, wir sitzen hier wie die Mäuse in der Falle. Aber redet nicht so laut – wer weiß, wer hier alles mitlauscht."
+
+- "Habt ihr das gehört? Der Brunnen am alten Marktplatz soll vergiftet sein! Ein Fischer hat erzählt, dass er einen Kerl dabei gesehen hat, wie der heimlich etwas ins Wasser geschüttet hat. Als er ihn stellen wollte, war der Kerl weg – wie ein Schatten in der Nacht. Und jetzt klagen die Leute über Magenkrämpfe! Die Spione wollen uns von innen heraus ausrotten, sag ich euch."
+
+- "Letzte Woche ist doch das halbe Lagerhaus an der Westmauer eingestürzt, ja? Und die Stadtwache behauptet, das war bloß eine morsche Stütze. Morsche Stütze, mein Arsch! Ich hab’ einen von diesen ‚Maurern‘ dort gesehen – und ich schwöre bei Rondra, der hatte einen seltsamen Bohrer bei sich, wie man ihn noch nie gesehen hat. Der wollte was kaputt machen, da bin ich mir sicher! Aber bevor man ihn erwischen konnte, war er weg. Ich sag euch, die Belagerer haben ihre Ratten längst in die Stadt geschickt."
