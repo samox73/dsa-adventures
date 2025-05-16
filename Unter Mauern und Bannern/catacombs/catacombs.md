@@ -24,23 +24,21 @@ Die Katakomben bestehen aus engen, verschlungenen Gängen, die in größere Räu
 
 1. **Der Knochensaal:**
    Ein großer, gewölbter Raum, dessen Wände vollständig aus sorgfältig gestapelten Knochen bestehen. Schädel starren die Helden aus leeren Augenhöhlen an. In der Mitte des Raums befindet sich ein steinerner Altar, auf dem eine Schale mit eingetrocknetem Blut steht.
-   
+
    - **Herausforderung:** Der Raum ist mit einem alten magischen Schutz versehen. Die Helden müssen eine **Probe auf Magiekunde** oder **Götter/Kulte** ablegen, um zu erkennen, dass der Altar eine Falle aktiviert, wenn er berührt wird.
 
 2. **Die Runenhalle:**
    Ein weiter Raum, dessen Boden von leuchtenden Runen bedeckt ist. Diese Runen markieren einen uralten Schutzkreis gegen das Böse.
-   
+
    - **Entdeckung:** Die Helden könnten Hinweise auf die Bedeutung der Runen finden (Proben auf **Magiekunde** oder **Geschichte**). Es wird klar, dass die Runen gegen den Azzitai wirken könnten, wenn sie richtig aktiviert werden.
 
 3. **Der Engpass:**
    Ein schmaler, halb verschütteter Tunnel, der die Helden zwingt, sich hindurchzuquetschen.
-   
+
    - **Herausforderung:** Eine **Probe auf Kraftakt oder Akrobatik** ist nötig, um sich hindurchzuarbeiten. Wer scheitert, bleibt stecken und löst möglicherweise eine Gerölllawine aus.
 
 4. **Der Dämonenhort:**
    Der letzte Raum vor dem Ausgang. Hier herrscht drückende Hitze, und die Wände sind rußgeschwärzt. Am anderen Ende des Raumes steht der dämonische Wächter, ein Azzitai, der den Ausgang blockiert.
-
-
 
 ---
 
