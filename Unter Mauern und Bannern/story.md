@@ -1,6 +1,6 @@
 # **Die Belagerung von Perricum**
 
-*Ein Abenteuer für Heldengruppen mittlerer bis erfahrener Stufe, das Diplomatie, Erkundung und taktisches Denken miteinander verbindet.*
+_Ein Abenteuer für Heldengruppen mittlerer bis erfahrener Stufe, das Diplomatie, Erkundung und taktisches Denken miteinander verbindet._
 
 ---
 
