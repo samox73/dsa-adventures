@@ -46,7 +46,7 @@ Berena von Kaldenfels, eine der wichtigsten Persönlichkeiten in der Stadtführu
 
 - Überreden, Menschenkenntnis, Handel, Etikette, Gassenwissen, Bekehren & Überzeugen, Lügen erkennen
 
-## Ziel dieses Abschnitts:t
+## Ziel dieses Abschnitts:
 
 - Die Helden entwickeln ein erstes Misstrauen gegenüber dem Konsortium
 - Sie erhalten erste Hinweise auf die Insel Carrasīt als mögliches Zentrum illegaler Aktivitäten
