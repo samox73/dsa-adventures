@@ -24,7 +24,7 @@ Berena von Kaldenfels, eine der wichtigsten Persönlichkeiten in der Stadtführu
 
 ### 1. Geheimes Treffen mit Berena
 
-- Findet im Ordensquartier oder einem gesicherten Raum im Stadthaus statt
+- Findet im Ordensquartier statt
 - Berena gibt den Helden einen Überblick über die wirtschaftliche Lage
 - Sie überreicht eine Liste mit offiziellen Forderungen Perricums
 - Zusätzlich weist sie auf Gerüchte hin: Es soll eine abgelegene Insel geben, von der das Konsortium operiert, ohne sie im Vertrag zu erwähnen
