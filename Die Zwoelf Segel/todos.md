@@ -1,4 +1,3 @@
 - Schlacht mit hohem Detailgrad
-- charakter erstellen:
-  - piratenchef
-  - handelschef
+
+- Darrik daemon ausarbeiten

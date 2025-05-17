@@ -36,7 +36,7 @@ Die Luft ist salzgeschwängert, schwer und feucht. Scharen von Blutkrähen kreis
 
 Nach dem politischen Erfolg in Perricum wird die Rückeroberung Carrasīts beschlossen. Eine kleine Stadtmiliz (etwa 50 ausgebildete Kämpfer) steht unter dem Befehl des Ordens von Nebachot. Die Helden übernehmen die Leitung der Operation.
 
-Die Piraten sind noch immer kampfstark (20–30 erfahrene Söldner) und erwarten keine unmittelbare Gefahr – aber sie haben die Insel mit einfachen Fallen, Spähern und tierischen Wächtern abgesichert. Madros Krayk residiert weiterhin im Fort, plant aber eine mögliche Evakuierung per Boot.
+Die Piraten sind noch immer kampfstark (mindestens (!) 20–30 erfahrene Söldner) und erwarten keine unmittelbare Gefahr – aber sie haben die Insel mit einfachen Fallen, Spähern und tierischen Wächtern abgesichert. Madros Krayk residiert weiterhin im Fort, plant aber eine mögliche Evakuierung per Boot.
 
 ## Strategische Optionen:
 

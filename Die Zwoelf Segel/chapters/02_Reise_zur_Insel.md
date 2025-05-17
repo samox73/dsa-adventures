@@ -4,6 +4,18 @@
 
 Golf von Perricum, an Bord der kleinen Kogge "Seeschwalbe"
 
+> Wie aus dem Nichts wuchs die Insel vor ihnen aus der fahlen Gischt – ein dunkles Juwel in einem graublauen Meer, umhüllt vom Atem der frühen Dämmerung. Carrasīt. Der Name hing unausgesprochen zwischen den Männern und Frauen an Bord, als sei schon sein Klang ein Versprechen aus Salz, Schweigen und Gefahr.
+
+> Der Nebel war schwer und still, wie ein Tuch, das der Himmel selbst über das Land gelegt hatte, um es vor neugierigen Blicken zu verbergen. Nur hier und da durchbrach ein Sonnenstrahl das Gewirr aus Wolken und Dunst, fiel wie ein Finger aus Licht auf die schroffen Küstenlinien, auf das dunkle Grün der Wälder, auf die Zacken der Felsen, die wie schwarze Schwingen in die See ragten.
+
+> Am Fuße einer flachen Landzunge lag ein Strand aus dunklem, fast violettem Sand – feucht, schimmernd, gezeichnet von den Narben der Gezeiten. Verkrümmte, halbverfallene Stege reckten sich ins Wasser, überwuchert von Tang und Algen, als habe das Meer sie längst zurückgefordert. In der Ferne das Dorf, kaum mehr als ein Dutzend windschiefer Hütten unter krummen Dächern, die sich wie bucklige Rücken gegen den Wind duckten.
+
+> Und über allem: das Fort. Hoch auf dem nordöstlichen Steilhang thronte es wie ein alter Zahn, aus Stein geschlagen, mit Mauern, die Wind und Regen zerfressen hatten. Aus einem Schornstein stieg Rauch – dünn, aber unmissverständlich. Leben. Oder etwas, das sich dafür hielt.
+
+> Ein krächzender Schrei ließ sie zusammenzucken – keine Möwe, sondern tiefer, kehliger. Zwei schwarze Vögel kreisten über dem Kap, stießen spiralförmig zur Erde herab und verschwanden zwischen Bäumen. Dort, im Schatten des Waldes, begannen Pfade – keine Wege, eher Spuren, zwischen Farn, Dornen und knorrigem Gehölz.
+
+> Kapitän Eolan Greifax ließ den Blick schweifen, die Hände auf dem Steuerrad. „Ich hab viele Inseln gesehen“, murmelte er, kaum hörbar, „aber keine, die so still geschaut hat.“ Dann wurde das Ruderboot zu Wasser gelassen. Die Helden bestiegen es ohne ein Wort. Nur das gleichmäßige Knarren der Ruder begleitete sie, als sie auf den fremden Strand zufuhren. Und das Schweigen Carrasīts, das schwerer wog als jede Brandung.
+
 ## Ziel:
 
 Die Helden reisen mit ihrem neu erworbenen Handelsschiff zur abgelegenen Insel Carrasīt, um dort diskret Informationen über die Aktivitäten des Händlerkonsortiums zu sammeln. Während der Überfahrt sollen erste Herausforderungen die Gefährlichkeit der Region und die Bedeutung des Seewegs unterstreichen.
