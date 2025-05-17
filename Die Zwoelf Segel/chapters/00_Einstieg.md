@@ -6,7 +6,7 @@ Im Ordensquartier des jungen Ordens von Nebachot ist man bereits wach. Durch off
 
 **HELDEN SPIELEN**
 
-Dann wird die Tür geöffnet – ohne Eile, aber mit Nachdruck. Eine Gestalt tritt ein, aufrecht, entschieden, in dunkelgrünem Reisemantel über einem bestickten Ratsgewand. Berena von Kaldenfels. Ihr Blick schweift nicht über die Teller oder das Licht im Raum – sie sieht nur die Helden an. Direkt, ruhig, wie jemand, der die Bedeutung ihrer Worte längst kennt.
+Plötzlich öffnet sich die Tür – ohne Eile, aber mit Nachdruck. Eine Gestalt tritt ein, aufrecht, entschieden, in dunkelgrünem Reisemantel über einem bestickten Ratsgewand. Berena von Kaldenfels. Ihr Blick schweift nicht über die Teller oder das Licht im Raum – sie sieht nur die Helden an. Direkt, ruhig, wie jemand, der die Bedeutung ihrer Worte längst kennt.
 
 „Wir haben ein Problem“, sagt sie leise, und der Raum scheint für einen Moment den Atem anzuhalten. „Das Konsortium der Zwölf Segel fordert neue Verträge. Höhere Zölle, weitreichendere Rechte, Einfluss auf unser Hafengericht. Es ist ein Angriff. Kein offener, aber einer mit goldenen Ketten.“
 
