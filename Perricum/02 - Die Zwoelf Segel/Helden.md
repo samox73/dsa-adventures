@@ -1,5 +1,3 @@
-# Player Charakters
-
 ## Arne (Mat)
 
 | Probe            | Werte    | FW  |
@@ -11,7 +9,7 @@
 
 Vorteile: Vertrauenserweckend, Gutaussehend
 
-Nachteile: Boser Namensvetter, Goldgier, Geiz, Schurkenname, Lykantropie, Verpflichtung II (Orden), Aberglaube
+Nachteile: Böser Namensvetter, Goldgier, Geiz, Schurkenname, Lykantropie, Verpflichtung II (Orden), Aberglaube
 
 ## Wulfgrim (Nils)
 
@@ -52,7 +50,7 @@ Vorteile:
 
 Nachteile: Verpflichtung II (Orden), Schlafwandler, Langschlafer, Jahzorn
 
-## Salarin (Motz)
+## Salarin (Mötz)
 
 | Probe                      | Werte    | FW  |
 | -------------------------- | -------- | --- |
@@ -63,4 +61,4 @@ Nachteile: Verpflichtung II (Orden), Schlafwandler, Langschlafer, Jahzorn
 
 Vorteile: Dunkelsicht II
 
-Nachteile: Verpflichtung II (Orden), Streitsuchtig, Neugierig, Spielsucht, Sensibler Geruch
+Nachteile: Verpflichtung II (Orden), Streitsüchtig, Neugierig, Spielsucht, Sensibler Geruch
