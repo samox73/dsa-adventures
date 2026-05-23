@@ -13,6 +13,7 @@
 | Hans | Thomas | Spionagenetz im Aufbau. Kelch (göttl. Geschenk, Wirkung unbekannt) |
 | Valene | Dani | Ordenstrainerin. Hammeramulett (1x/Monat Waffe Ingerim-geweiht) |
 | Myrin | Sam | Seelenheilkunde-Ausbildung. Weizenbrosche (1x/Woche 1W20 LP Sofort-Heilung) |
+| **Molfy** | — | Nivesisches Wolfskind, Animistin. Kälteresistenz, Wolfsblut, Höhenangst. Bindung der Waffe (Wolfsspeer). |
 
 ---
 
@@ -71,6 +72,21 @@
 
 ---
 
+## Abenteuer 04 – *Das Spiegelbild*
+
+**Helden:** Wulfgrim · Salarin · Hans · Arne · Molfy *(neu, Nivesisches Wolfskind)*
+
+- Ein Splitter des versiegelten Szepters Shazzarak hat sich gelöst
+- Erschafft Doppelgänger aller höheren Ordensmitglieder (Helden + Fidelio) aus deren dunkelsten Impulsen
+- Doppelgänger begehen Verbrechen in Perricum — Zeugen beschreiben die Helden als Täter
+- Berena unter Druck, Haftbefehle drohen
+- Spur führt zum **Spiegelschrein des Vergessens** (Hesinde-Schrein, verlassen seit Feuersturm 1017 BF) im Wald westlich der Stadt → physischer Anker der Entität
+- Finale: **Spiegelraum** unter den Katakomben — verzerrte Perricum-Kopie, andere Physik (Sprechen = Licht, Schweigen = Dunkel, Türen rückwärts)
+- Entität durch Anerkennung der Wahrheit und/oder Rune-Reparatur zurückgetrieben
+- **Loreta ist ausgenommen vom Fluch** — Grund bleibt geheim; sie stellt am Ende zu viele präzise Fragen
+
+---
+
 ## NSCs auf einen Blick
 
 | NSC | Rolle | Status |
@@ -85,6 +101,7 @@
 | **Dorkus Bingenstein** | Rechtsverwalter Schule d. Austreibung | Vorerst neutralisiert |
 | **Olorand von Gareth-Rothenfels** | Leiter Schule d. Austreibung | Beobachter |
 | **Alricio von Eslamsgrund** | Söldnerhauptmann (Abenteuer 01) | Unbekannt |
+| **Molfy** | Nivesisches Wolfskind, neue Ordensmitgliedskandidatin | Neu (Ab. 04) |
 
 ---
 
