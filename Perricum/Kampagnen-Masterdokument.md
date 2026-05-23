@@ -89,19 +89,18 @@
 
 ## NSCs auf einen Blick
 
-| NSC | Rolle | Status |
-|-----|-------|--------|
-| **Berena von Kaldenfels** | Ratsdame, politische Verbündete | Aktiv |
-| **Eolan Greifax** | Kapitän der Seeschwalbe | Aktiv |
-| **Fidelio** | Ordensmitglied, Verwalter | Aktiv |
-| **Loreta Merzhauer** | Ordensmitglied, Gelehrte/Magierin | Aktiv |
-| **Norima** | Dorfälteste Carrasīt | Aktiv (Insel) |
-| **Darrik von Bregelsaum** | Wirtschaftsfeind, rachsüchtig | Offen |
-| **Madros Krayk** | Ex-Piratenkapitän | Offen |
-| **Dorkus Bingenstein** | Rechtsverwalter Schule d. Austreibung | Vorerst neutralisiert |
-| **Olorand von Gareth-Rothenfels** | Leiter Schule d. Austreibung | Beobachter |
-| **Alricio von Eslamsgrund** | Söldnerhauptmann (Abenteuer 01) | Unbekannt |
-| **Molfy** | Nivesisches Wolfskind, neue Ordensmitgliedskandidatin | Neu (Ab. 04) |
+| NSC                               | Rolle                                                 | Status                |
+| --------------------------------- | ----------------------------------------------------- | --------------------- |
+| **Berena von Kaldenfels**         | Ratsdame, politische Verbündete                       | Aktiv                 |
+| **Eolan Greifax**                 | Kapitän der Seeschwalbe                               | Aktiv                 |
+| **Fidelio**                       | Ordensmitglied, Verwalter                             | Aktiv                 |
+| **Loreta Merzhauer**              | Ordensmitglied, Gelehrte/Magierin                     | Aktiv                 |
+| **Norima**                        | Dorfälteste Carrasīt                                  | Aktiv (Insel)         |
+| **Darrik von Bregelsaum**         | Wirtschaftsfeind, rachsüchtig                         | Offen                 |
+| **Madros Krayk**                  | Ex-Piratenkapitän                                     | Offen                 |
+| **Dorkus Bingenstein**            | Rechtsverwalter Schule d. Austreibung                 | Vorerst neutralisiert |
+| **Olorand von Gareth-Rothenfels** | Leiter Schule d. Austreibung                          | Beobachter            |
+| **Alricio von Eslamsgrund**       | Söldnerhauptmann (Abenteuer 01)                       | Unbekannt             |
 
 ---
 

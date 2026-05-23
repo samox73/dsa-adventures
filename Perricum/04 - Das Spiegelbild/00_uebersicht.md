@@ -6,7 +6,7 @@
 
 ## Was ist passiert
 
-Shazzarak wird durch sieben Runen gebunden. Zwei davon sind gebrochen. Das reicht.
+Shazzarak wird durch zwölf Runen gebunden. Zwei davon sind gebrochen. Das reicht.
 
 Ein Splitter der Entität hat sich gelöst — nicht stark genug, um sich vollständig zu manifestieren, stark genug, um Schatten zu werfen. Er erschafft **Doppelgänger** aller höheren Ordensmitglieder — geformt aus deren dunkelsten, unausgesprochenen Impulsen. Diese Schatten begehen Verbrechen in Perricum. Die Zeugen beschreiben die Helden als Täter.
 
@@ -23,29 +23,37 @@ Ein Splitter der Entität hat sich gelöst — nicht stark genug, um sich vollst
 | `03_akt_der_spiegelraum.md` | Konfrontation in den Katakomben |
 | `doppelgaenger.md` | Alle 6 Doppelgänger als Referenz |
 | `nscs_und_nachwirkungen.md` | NSCs, Aftermath, SL-Leitfaden |
+| `shazzarak_geschichte.md` | Geschichte des Dämonenszepters — SL-Lore |
+| `wissensfragmente.md` | Bücher, Loreta-Gespräche, Szepter-Eingebungen |
+| `zufallsereignisse.md` | W39-Tabelle: Ausrutscher des erwachenden Szepters |
 
 ---
 
 ## Die Welt vor dem Abenteuer
 
-### Die sieben Runen des Shazzarak
+### Die zwölf Runen des Shazzarak
 
-Shazzarak wird nicht durch eine einzige Versiegelung gebunden, sondern durch **sieben Runen** — sieben kopfgroße Diskusse, im Umkreis von Perricum verteilt. Jeder Diskus entspricht einer der sieben Sphären Aventuriens. Die Farbe jedes Diskus spiegelt das Wesen der jeweiligen Sphäre wider.
+Shazzarak wird nicht durch eine einzige Versiegelung gebunden, sondern durch **zwölf Runen** — zwölf kopfgroße Diskusse, im Umkreis von Perricum verteilt. Jeder Diskus ist einem der zwölf Götter geweiht. Die Farbe jedes Diskus spiegelt die Domäne der jeweiligen Gottheit wider. Die Platzierung folgte keinem Zufall: Jede Rune liegt an einem Ort, der dem Wesen ihres Gottes entspricht.
 
-| Nr. | Sphäre | Diskus-Farbe | Ort | Status |
-|---|---|---|---|---|
-| 1 | Weltenherz / Ordnung und Stillstand | Perlweiß | Fundament des alten Ratsturms | Intakt |
-| 2 | Dere und Feste / Werden der Elemente | Ocker | Unter dem alten Brunnen, Ostmauer | Intakt |
-| 3 | Heimat der Sterblichen | Braun | Ehemals: Stadtmauer-Fundament (Sappeurgasse) | **Gebrochen** |
-| 4 | Tod und Vergehen / Reich der Toten | Silbergrau | Tiefgang der Katakomben, Nordostflügel | **Gebrochen** |
-| 5 | Zitadelle der Götter | Gold | Keller des alten Kontors, Hafenviertel | Intakt |
-| 6 | Sternenwall / Sterne und Kraft | Nachtblau | Unter der Stadtmauer, Südtor-Fundament | Intakt |
-| 7 | Chaos und Brodem / Niederhöllen | Schwarz | Unbekannt — noch nicht lokalisiert | Intakt |
+| Nr. | Gottheit | Domäne | Diskus-Farbe | Ort | Status |
+|---|---|---|---|---|---|
+| 1 | Praios | Sonne, Gesetz | Gold | Fundament des alten Ratsturms | Intakt |
+| 2 | Rondra | Kampf, Gewitter | Scharlachrot | Unter dem Fundament der Löwenburg | Intakt |
+| 3 | Efferd | Meer, Wasser | Tiefblau | Unter den alten Kaimauern, Efferdgrund | Intakt |
+| 4 | Travia | Gastfreundschaft, Familie | Bernstein | Unter dem alten Brunnen, Ostmauer | Intakt |
+| 5 | Boron | Tod, Schlaf | Silbergrau | Tiefgang der Katakomben, Nordostflügel | **Gebrochen** |
+| 6 | Hesinde | Wissenschaft, Kunst | Smaragdgrün | Fundament des ehemaligen Archivviertels | Intakt |
+| 7 | Firun | Winter, Jagd | Perlweiß | Unter der Nordmauer, Jägertor | Intakt |
+| 8 | Tsa | Fruchtbarkeit, Neubeginn | Jadegrün | Unter dem alten Marktplatz | Intakt |
+| 9 | Phex | Handel, Verborgenes | Dunkelviolett | Unbekannt — noch nicht lokalisiert | Intakt |
+| 10 | Peraine | Ackerbau, Heilkunst | Erdbraun | Ehemals: Stadtmauer-Fundament, Sappeurgasse | **Gebrochen** |
+| 11 | Ingerimm | Schmiede, Handwerk | Bronzefarben | Unter der Zunfthalle, Leuingen | Intakt |
+| 12 | Rahja | Liebe, Wein | Weinrot | Unter dem alten Hafenkontor, Efferdgrund | Intakt |
 
-**Die Rune der 3. Sphäre** *(Braun — Welt der Sterblichen):*
+**Die Rune der Peraine** *(Erdbraun — Ackerbau, Heilkunst):*
 Während des ersten Abenteuers wurde sie durch die Sabotage der tobrianischen Sappeure unter der Stadtmauer zertrümmert. Die Schule der Austreibung hat den Diskus geborgen und verwahrt ihn seitdem unter Verschluss. **Die Helden wissen das nicht.**
 
-**Die Rune der 4. Sphäre** *(Silbergrau — Totenreich):*
+**Die Rune des Boron** *(Silbergrau — Tod, Schlaf):*
 Beim Freilegen der Katakomben im dritten Abenteuer wurde der Diskus durch Bauarbeiten aus seiner Halterung gerissen und ist in drei Stücke zerbrochen. Diese zweite Lücke gibt dem Splitter genug Kraft, um Doppelgänger in die Welt zu projizieren. **Fidelio entdeckt die Scherben am Morgen, mit dem dieses Abenteuer beginnt.**
 
 ### Der Spiegelschrein im Wald
